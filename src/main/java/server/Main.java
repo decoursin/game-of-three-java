@@ -9,7 +9,7 @@ import java.util.Random;
 
 public class Main extends WebSocketServer {
 
-    private static final int PORT = 8777;
+    private static final int PORT = 8887;
     private static final String HOST = "localhost";
     private static final Random random = new Random();
     private static final int MAX = 10000;
