@@ -1,7 +1,7 @@
 ## Game of Three (Java version)
 
 1) Compile jar files: `mvn package`
-2) Run server and client:
+2) Run server and client (in two different terminals):
 * `java -jar ./target/server.jar`
 * `java -jar ./target/client.jar`
 
